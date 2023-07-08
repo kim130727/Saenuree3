@@ -1,16 +1,8 @@
-# eng_app
+# 새누리3교회 앱개발
 
-A new Flutter project.
+
+![saenuree3_logo](https://github.com/kim130727/Saenuree3/assets/47652911/ab6f32d7-c8cd-44fe-86f2-d5b82360d131)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
